@@ -3,7 +3,7 @@
 > [!NOTE]
 > This list of rules may be incomplete and may not cover all situations. The server management may take action in some special cases, even if this is not clearly stated here.
 
-> [!NOTE] Rule Changes
+> [!NOTE]
 > We may change any of these rules in the future. We will you know after a rule has been changed.
 
 ## Table of contents
