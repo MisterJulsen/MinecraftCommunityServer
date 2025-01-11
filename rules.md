@@ -29,7 +29,7 @@
   You can help ensure that the server remains a peaceful place for everyone! Please report any violations you notice or if you personally don't like something. We can then try to resolve the dispute or intervene appropriately.
 - ### Groupings
   Groups are permitted and welcome. You can create your own nations, to which several players can belong. In public areas, important texts (e.g. navigation signs) should be written in English (except for proper names)
-## Pprivate areas
+## Private areas
 - ### Freedom to build
   Players can build whatever they want in their private areas as long as it doesn't violate other server rules.
 - ### Marking of private areas
