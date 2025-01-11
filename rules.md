@@ -3,6 +3,9 @@
 > [!NOTE]
 > This list of rules may be incomplete and may not cover all situations. The server management may take action in some special cases, even if this is not clearly stated here.
 
+> [!NOTE] Rule Changes
+> We may change any of these rules in the future. We will you know after a rule has been changed.
+
 ## Table of contents
 - [General rules](#general-rules) _General rules for the server_
 - [Private areas](#private-areas) _Rules about what players can do in their own, private areas_
