@@ -26,8 +26,9 @@
   Follow the server management's instructions and use the chat respectfully. Spam and excessive cursing and advertising are prohibited. Texts in public areas should preferably be written in English or combined with an English translation. (e.g. Hauptbahnhof _(Main Train Station)_)
 - ### Report rule violations
   You can help ensure that the server remains a peaceful place for everyone! Please report any violations you notice or if you personally don't like something. We can then try to resolve the dispute or intervene appropriately.
-- ### Groupings
-  Groups are permitted and welcome. You can create your own nations, to which several players can belong. In public areas, important texts (e.g. navigation signs) should be written in English (except for proper names)
+- ### Groups, guilds, nations
+  You can create your own guilds and nations and even use your own language there. In public areas, but please also provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
+
 ## Private areas
 - ### Freedom to build
   Players can build whatever they want in their private areas as long as it doesn't violate other server rules.
@@ -35,6 +36,7 @@
   Private areas should be clearly marked (e.g. with signs or fences) so that other players know which areas are already occupied. We reserve the right to release occupied areas, e.g. if an area is not actively used for a long time or if it is important for the infrastructure.
 - ### Privacy protection
   Only enter locked-off/private areas with the permission of the owner.
+
 ## Public areas
 - ### Usage
   Public areas are accessible to all players. Respect the existing infrastructure and structures and do not change anything without consultation.
@@ -99,8 +101,6 @@
   1000 blocks
 - ### Default road width
   7 blocks
-- ### Groups, guilds, nations
-  Feel free to create small communities with multiple players. You can even use your own language, but also provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
 
 ## Definitions
 - ### Public area
