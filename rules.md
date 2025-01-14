@@ -1,7 +1,7 @@
 # Community Server Rules
 
 > [!NOTE]
-> This list of rules may be incomplete and may not cover all situations. The server management may take action in some special cases, even if this is not clearly stated here.
+> This list of rules may be incomplete and may not cover all situations. The server management will take action in some special cases, even if this is not clearly stated here.
 > We may change any of these rules in the future and will let you know after a rule has been changed, once the server has launched.
 
 ## Table of contents
