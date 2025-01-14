@@ -45,7 +45,7 @@
 - ### Design and functionality
   Structures in public areas should be practical, accessible and aesthetically pleasing. Chaos, destruction and uncoordinated constructions must be avoided.
 - ### Connection to infrastructure
-  All public buildings (e.g. train stations, bridges) that are to be connected to the public infrastructure, especially if it is a functioning and sensitive system (e.g. public rail network), must first be communicated with the responsible authorities or the server management must be clearly agreed upon and must not be blocked.
+  All public buildings (e.g. train stations, bridges) that should be connected to the public infrastructure, especially if it is a global and sensitive system (e.g. public rail network), must first be communicated with the responsible authorities or the server management.
   
 ## Server resource usage
 
