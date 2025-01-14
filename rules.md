@@ -11,7 +11,6 @@
 - [Server resource usage](#server-resource-usage) _How to use the server considerately_
 - [Public railway network](#public-railways) _Rules for an organized public railway network_
 - [Our recommendations](#our-recommendations) _What we think might have an positive effect on the community without forcing it_
-- [Definitions](#definitions) _What we mean by some terms_
 
 ## General Rules
 - ### Respect and fairness
@@ -30,6 +29,10 @@
   You can create your own guilds and nations and even use your own language there, but please also provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
 
 ## Private areas
+
+> [!NOTE]
+> **DEFINITION:** All locations claimed by an individual or group, clearly marked as private property or are enclosed (e.g. with signs or fences) and are not intended for public use (e.g. tram network of a city).
+
 - ### Freedom to build
   Players can build whatever they want in their private areas as long as it doesn't violate other server rules.
 - ### Marking of private areas
@@ -38,6 +41,10 @@
   Only enter locked-off/private areas with the permission of the owner.
 
 ## Public areas
+
+> [!NOTE]
+> **DEFINITION:** All locations that are accessible for public usage or connected to the server's global infrastructure (e.g., road, rail, or pathway networks). This includes train stations, markets, central paths, and public bridges.
+
 - ### Usage
   Public areas are accessible to all players. Respect the existing infrastructure and structures and do not change anything without permission. Avoid destruction.
 - ### Coordination
@@ -101,9 +108,3 @@
   1000 blocks
 - ### Default road width
   7 blocks
-
-## Definitions
-- ### Public area
-  All locations that are accessible for public usage or connected to the server's global infrastructure (e.g., road, rail, or pathway networks). This includes train stations, markets, central paths, and public bridges.
-- ### Private area
-  All locations claimed by an individual or group, clearly marked as private property or are enclosed (e.g. with signs or fences) and are not intended for public use (e.g. tram network of a city).
