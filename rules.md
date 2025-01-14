@@ -39,7 +39,7 @@
 
 ## Public areas
 - ### Usage
-  Public areas are accessible to all players. Respect the existing infrastructure and structures and do not change anything without consultation.
+  Public areas are accessible to all players. Respect the existing infrastructure and structures and do not change anything without permission. Avoid destruction.
 - ### Coordination
   Major changes or construction projects in public areas (e.g. streets, train stations) must be coordinated in advance with the community or the server management.
 - ### Design and functionality
