@@ -27,7 +27,7 @@
 - ### Report rule violations
   You can help ensure that the server remains a peaceful place for everyone! Please report any violations you notice or if you personally don't like something. We can then try to resolve the dispute or intervene appropriately.
 - ### Groups, guilds, nations
-  You can create your own guilds and nations and even use your own language there. In public areas, but please also provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
+  You can create your own guilds and nations and even use your own language there, but please also provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
 
 ## Private areas
 - ### Freedom to build
