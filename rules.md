@@ -99,6 +99,8 @@
   1000 blocks
 - ### Default road width
   7 blocks
+- ### Groups, guilds, nations
+  Feel free to create small communities with multiple players. You can even use your own language, but also provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
 
 ## Definitions
 - ### Public area
