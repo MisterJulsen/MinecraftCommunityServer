@@ -1,4 +1,4 @@
-# Community Server Rules
+# Community Server Rules - Ausstieg in Fahrtrichtung links
 
 > [!NOTE]
 > This list of rules may be incomplete and may not cover all situations. The server management will take action in some special cases, even if this is not clearly stated here.
