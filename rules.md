@@ -74,7 +74,7 @@
 - ### Coordination
   Do not build or modify railway lines without permission. _(This is important to prevent there being numerous lines next to each other, a line suddenly having 10 tracks (even if 2 would be enough), and the existing network not to be influenced or blocked)_ If possible, it will usually get approved.
 - ### Ownership of public rail lines
-  Public Railway infrastructure will be owned and managed by the Server Staff, to better coordinate building, upgrading and schedules.
+  Public Railway infrastructure will be owned and managed by the Server Staff, to better coordinate building, upgrading and schedules. Everyone is welcome to help expand the public rail infrastructure.
 - ### Use public railway lines
   Do not send scheduled trains onto the public rail network without permission. The train schedule must be approved to ensure that other trains or stations are not blocked. Manual individual journeys are permitted at any time.
 - ### Stay realistic
