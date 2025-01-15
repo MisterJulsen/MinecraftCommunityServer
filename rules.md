@@ -72,7 +72,8 @@
 > These rules only apply to the public rail network! Railway lines in your private area (e.g. subway, tram) are excluded from this.
 
 - ### Coordination
-  Do not build or modify railway lines without permission. _(This is important to prevent there being numerous lines next to each other, a line suddenly having 10 tracks (even if 2 would be enough), and the existing network not to be influenced or blocked)_ If possible, it will usually get approved.
+  Do not build or modify railway lines without permission. _(This is important to prevent there being numerous lines next to each other, a line suddenly having 10 tracks (even if 2 would be enough), and the existing network not to be influenced or blocked)_ If possible, it will usually get approved. Already existing infrastructure should be
+  used first before new infrasturucture is build. For that purpose private rail lines can also be opened to the public, with approval of the owner. 
 - ### Ownership of public rail lines
   Public Railway infrastructure will be owned and managed by the Server Staff, to better coordinate building, upgrading and schedules. Everyone is welcome to help expand the public rail infrastructure.
 - ### Use public railway lines
