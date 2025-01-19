@@ -105,6 +105,9 @@
   Width: 3 blocks interior + max. 0.5 block walls on the sides, height: max. 7 blocks
 - ### Maximum train length
   300 blocks
+
+> [!NOTE]
+> These values ​​are the standard! Deviations are possible if the route and the stations are designed for them (e.g. narrow-gauge routes)
   
 ## Our recommendations
 - ### Minimum distance to other players/groups
