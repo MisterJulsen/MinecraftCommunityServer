@@ -1,7 +1,7 @@
-# Community Server Rules - Ausstieg in Fahrtrichtung links
+# Community Server Rules
 
 > [!NOTE]
-> This list of rules may be incomplete and may not cover all situations. The server management will take action in some special cases, even if this is not clearly stated here.
+> This list of rules will be incomplete and may not cover all situations. The server management will take action in some special cases, even if this is not clearly stated here.
 > We may change any of these rules in the future and will let you know after a rule has been changed, once the server has launched.
 
 ## Table of contents
@@ -10,6 +10,7 @@
 - [Public areas](#public-areas) _Rules about the usage of public areas_
 - [Server resource usage](#server-resource-usage) _How to use the server considerately_
 - [Public railway network](#public-railways) _Rules for an organized public railway network_
+- [Public railway standards](#public-railways-standards) _Standardization of the public rail network_
 - [Our recommendations](#our-recommendations) _What we think might have an positive effect on the community without forcing it_
 
 ## General Rules
@@ -20,9 +21,9 @@
 - ### Griefing and theft
   Changing or looting someone else's property or items is not permitted.
 - ### No cheating or exploits
-  Do not use modifications, hacks or exploits that give you or other players an unfair advantage. Violation will be punished immediately with a permanent ban!
+  Do not use modifications, hacks or exploits that give you or other players an unfair advantage. Violation will be punished. If unsure, please ask.
 - ### Communication
-  Follow the server management's instructions and use the chat respectfully. Spam and excessive cursing and advertising are prohibited. Texts in public areas should preferably be written in English or combined with an English translation. (e.g. Hauptbahnhof _(Main Train Station)_)
+  Follow the server management's instructions and use the chat respectfully. Spam and excessive cursing and advertising are prohibited. Use English as the main language.
 - ### Report rule violations
   You can help ensure that the server remains a peaceful place for everyone! Please report any violations you notice or if you personally don't like something. We can then try to resolve the dispute or intervene appropriately.
 - ### Groups, guilds, nations
@@ -43,16 +44,16 @@
 ## Public areas
 
 > [!NOTE]
-> **DEFINITION:** All locations that are accessible for public usage or connected to the server's global infrastructure (e.g., road, rail, or pathway networks). This includes train stations, markets, central paths, and public bridges.
+> **DEFINITION:** All locations that are accessible or intended for public usage or are connected to the server's global infrastructure (e.g. road, rail).
 
 - ### Usage
-  Public areas are accessible to all players. Respect the existing infrastructure and structures and do not change anything without permission. Avoid destruction.
+  Public areas are accessible to all players. Respect the existing infrastructure and buildings and do not change anything without permission. Avoid destruction!
 - ### Coordination
-  Major changes or construction projects in public areas (e.g. streets, train stations) must be coordinated in advance with the community or the server management.
+  Major changes or construction projects in public areas (e.g. highway roads, train stations) must be coordinated in advance with the community or the server management.
 - ### Design and functionality
-  Structures in public areas should be practical, accessible and aesthetically pleasing. Chaos, destruction and uncoordinated constructions must be avoided.
+  Structures in public areas should be accessible and aesthetically pleasing. Chaos, destruction and uncoordinated constructions must be avoided.
 - ### Connection to infrastructure
-  All public buildings (e.g. train stations, bridges) that should be connected to the public infrastructure, especially if it is a global and sensitive system (e.g. public rail network), must first be communicated with the responsible authorities or the server management.
+  All public buildings (e.g. train stations, bridges) that should be connected to the public infrastructure, especially if it is a global and sensitive system (like the public rail network), must first be communicated with the responsible authorities or the server management.
   
 ## Server resource usage
 
@@ -60,11 +61,13 @@
 > The server management reserves the right to unload loaded chunks or disable resource-intensive machines/constructions if this improves the server performance.
 
 - ### Chunk loading
-  Chunloaders are allowed, but should be used very sparingly.
+  Chunkloaders are allowed, but should be used very sparingly.
 - ### Machines
   Please switch off machines that do not need to be permanently active or that lead to high resource usage!
 - ### Entities
-  Optimize your farms and use as few entities as possible. The use of villagers should be **minimized**. (Even four cows are enough for enough meat and leather in the long run)
+  Optimize your farms and use as few entities as possible. The use of villagers should be **minimized**!
+- ### BlockEntities
+  Reduce BlockEntities as much as possible. Avoid long cable connections with blocks and use overhead wires from Immersive Engineering instead, for example. (Only the connectors are BlockEntities there and these wires are more aesthetic anyway)
 
 ## Public Railways
 
@@ -72,45 +75,50 @@
 > These rules only apply to the public rail network! Railway lines in your private area (e.g. subway, tram) are excluded from this.
 
 - ### Coordination
-  Do not build or modify railway lines without permission. _(This is important to prevent there being numerous lines next to each other, a line suddenly having 10 tracks (even if 2 would be enough), and the existing network not to be influenced or blocked)_ If possible, it will usually get approved. Where public rail infrastructure is available,
-  it should be used, instead of constructing a private line. Modifications that do not affect the rail traffic can be conducted without approval.
+  Do not build or modify railway lines and stations without permission. _(This is important to prevent that everybody build their own tracks anywhere, a route suddenly having 10 tracks (even if 2 would be enough), and the existing network to be influenced or blocked)_. Where public rail infrastructure is available, it should be used, instead of constructing a new (private) line. Modifications that do not affect the rail traffic can be conducted without approval.
 - ### Ownership of public rail lines
-  Public Railway infrastructure will be owned and managed by the Server Staff, to better coordinate building, upgrading and schedules. Everyone is welcome to help expand the public rail infrastructure.
+  Public Railway infrastructure and stations will be managed by the Server Staff by default, to better coordinate building, upgrading and schedules. Of course everyone is welcome to be part of it and help expand the public rail infrastructure after asking.
 - ### Use public railway lines
   Do not send scheduled trains onto the public rail network without permission. The train schedule must be approved to ensure that other trains or stations are not blocked. Manual individual journeys are permitted at any time.
 - ### Stay realistic
-  No tight curves, unrealistic track switches areas, overlapping railway lines, steep climbs/descents
-- ### Reduce signals
-  Place signals only where needed (e.g. **NOT** every 5 blocks)
+  No tight curves, unrealistic track switches areas, overlapping railway lines, steep climbs/descents, floating tracks
+- ### Signaling
+  Place signals where necessary and ensure that tracks are separated from each other by signals (e.g. at switches). Don't place too many signals (e.g. every 5 blocks, because of performance issues) but also don't leave too large sections unsignalled (as this reduces capacity). One signal every 100 - 150 blocks might be a good reference.
 - ### Parking trains
   Park trains in the depot and never on the open tracks.
 - ### Other players' trains
   Do not use or modify other players' trains without permission.
 - ### Disassemble trains
-  Disassemble trains that you don't need to save server performance. The server staff reserves the right to do this themselves if this rule is violated and performance problems arise.
----
+  Disassemble trains that you don't need to save server performance. The server staff reserves the right to do this if this rule is violated and performance issues arise.
+
+## Public Railways Standards
 > [!NOTE]
-> Exceptions possible on special routes and train stations.
+> These standards only apply to the public rail network! Railway lines in your private area (e.g. subway, tram) are excluded from this.
+> After asking for permission, exceptions in the public rail network are possible on special routes (e.g. narrow-gauge routes) and train stations that are designed for it.
 
 > [!CAUTION]
 > Never send trains on tracks that the train is not suitable for. For example, trains that are too wide can cause massive damage along the entire route!
 
-- ### Default platform height
+- ### Platform and boarding height
   2 blocks
 - ### Platform distance to the tracks
   at least 0.5 blocks
 - ### Distance between tracks
-  at least 1 block, better: 2 blocks (on main routes)  
-- ### Default train dimensions
-  Width: 3 blocks interior + max. 0.5 block walls on the sides, height: max. 7 blocks
-- ### Maximum train length
-  300 blocks
-
-> [!NOTE]
-> These values ​​are the standard! Deviations are possible if the route and the stations are designed for them (e.g. narrow-gauge routes)
+  2 blocks
+- ### Train dimensions
+  Width: 3 blocks interior + max. 0.5 block walls on the sides
   
+  Height: max. 7 blocks
+
+  Train length: max. 300 blocks
+
+  Carriage length: max. 30 blocks
+  
+  ![Example](https://github.com/user-attachments/assets/37ab86ba-9a0f-4e81-84b7-e1a7ae230148)
+
 ## Our recommendations
 - ### Minimum distance to other players/groups
-  1000 blocks
-- ### Default road width
-  7 blocks
+  around 1000 blocks
+- ### Default road width (two lanes)
+  7 blocks, 9 blocks on high-speed roads
+
