@@ -14,6 +14,7 @@ Description: A Minecraft SMP server for the entire community with no special the
 - Open to everyone, anytime
 - No specific topic (e.g. just Create or just technology), but a mix with different mods from all categories
 - Start: _still unknown_
-- - IP: _will be published on the discord server_
+- IP: _will be published on the discord server_
+- Our server provider (if you are interested): https://www.hetzner.com/de/dedicated-rootserver/ax102/konfigurator/#/
 
 If you have any questions or want to give feedback, feel free to join the discord server.
