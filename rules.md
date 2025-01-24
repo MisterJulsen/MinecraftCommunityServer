@@ -125,6 +125,8 @@
   around 1000 blocks
 - ### Default road width (two lanes)
   7 blocks, 9 blocks on high-speed roads
+- ### Public energy production
+  Instead of each player building their own energy production, several players can use one power source that produces enough output and is connected the players with power lines.
 
 ## Content Creation
 > [!NOTE]
