@@ -25,10 +25,12 @@
   Do not use modifications, hacks or exploits that give you or other players an unfair advantage. Violation will be punished. If unsure, please ask.
 - ### Communication
   Follow the server staff's instructions and use the chat respectfully. Spam, excessive cursing and advertising are prohibited. Use English as the main language.
-- ### Report rule violations
-  You can help ensure that the server remains a peaceful place for everyone! Please report any violations you notice or if you personally don't like something. We can then try to resolve the dispute or intervene appropriately.
 - ### Groups, guilds, nations
   You can create your own guilds and nations and even use your own language there, but please also provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
+- ### Resource collection
+  Use the `farm world` to collect resources on a larger scale (e.g. with the Digital Miner from Mekanism). Avoid destroying the landscape in the central area.
+- ### Dangerous and Destructive Features
+  Be careful when using dangerous machines (e.g. the Fission Reactor from Mekanism). Keep enough distance from civilization. Large explosions are only allowed in the farm world.
 
 ## Private areas
 
@@ -69,6 +71,8 @@
   Optimize your farms and use as few entities as possible. The use of villagers should be **minimized**!
 - ### BlockEntities
   Reduce BlockEntities as much as possible. Avoid long cable connections with blocks and use overhead wires from Immersive Engineering instead, for example. (Only the connectors are BlockEntities there and these wires are more aesthetic anyway)
+- ### Crashing the server
+  Please do not intentionally crash the server. Mistakes can happen.
 
 ## Public Railways
 
