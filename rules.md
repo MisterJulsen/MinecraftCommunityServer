@@ -30,7 +30,7 @@
 - ### Resource collection
   Use the `farm world` to collect resources on a larger scale (e.g. Digital Miner from Mekanism). Avoid destroying the landscape in the central area.
 - ### Dangerous and Destructive Features
-  Be careful when using dangerous machines (e.g. Fission Reactor from Mekanism). Keep enough distance from civilization.
+  Be careful when using dangerous features (e.g. Fission Reactor from Mekanism). Keep enough distance from civilization.
 
 ## Private areas
 
