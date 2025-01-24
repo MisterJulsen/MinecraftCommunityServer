@@ -18,19 +18,19 @@
 - ### Respect and fairness
   Treat all players with respect and kindness. Insults, discrimination or bullying are strictly prohibited! Also, keep enough distance from other players if you want to build something on your own, to avoid crowding them.
 - ### No questionable content
-  Structures or content that are offensive, obscene or otherwise inappropriate are prohibited.
+  Do nothing that is offensive, obscene or otherwise inappropriate.
 - ### Griefing and theft
-  Modifying or looting someone else's property or items is not permitted.
+  Modifying or looting someone else's property or items is not allowed.
 - ### No cheating or exploits
-  Do not use modifications, hacks or exploits that give you or other players an unfair advantage. Violation will be punished. If unsure, please ask.
+  Don't use modifications, hacks or exploits that give you or other players an unfair advantage. If unsure, please ask.
 - ### Communication
   Follow the server staff's instructions and use the chat respectfully. Spam, excessive cursing and advertising are prohibited. Use English as the main language.
 - ### Groups, guilds, nations
-  You can create your own guilds and nations and even use your own language there, but please also provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
+  You can create your own guilds and nations and even use your own language there. Please provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
 - ### Resource collection
-  Use the `farm world` to collect resources on a larger scale (e.g. with the Digital Miner from Mekanism). Avoid destroying the landscape in the central area.
+  Use the `farm world` to collect resources on a larger scale (e.g. Digital Miner from Mekanism). Avoid destroying the landscape in the central area.
 - ### Dangerous and Destructive Features
-  Be careful when using dangerous machines (e.g. the Fission Reactor from Mekanism). Keep enough distance from civilization. Large explosions are only allowed in the farm world.
+  Be careful when using dangerous machines (e.g. Fission Reactor from Mekanism). Keep enough distance from civilization.
 
 ## Private areas
 
@@ -40,7 +40,7 @@
 - ### Freedom to build
   Players can build whatever they want in their private areas as long as it doesn't violate other server rules.
 - ### Marking of private areas
-  Private areas should be clearly marked (e.g. with signs or fences) so that other players know which areas are already occupied. We reserve the right to release occupied areas, e.g. if an area is not actively used for a long time or if it is important for the infrastructure.
+  Private areas should be marked (e.g. with signs or fences) so that other players know which areas are already occupied. We reserve the right to release claimed areas, e.g. if an area is not actively used for a long time or if it is important for the infrastructure.
 - ### Privacy protection
   Only enter locked-off/private areas with the permission of the owner.
 
@@ -50,27 +50,27 @@
 > **DEFINITION:** All locations that are accessible or intended for public usage or are connected to the server's global infrastructure (e.g. road, rail).
 
 - ### Usage
-  Public areas are accessible to all players. Respect the existing infrastructure and buildings and do not change anything without permission. Avoid destruction!
+  Public areas should be accessible to all players. Respect the existing infrastructure and buildings and do not change anything without permission. Avoid destruction!
 - ### Coordination
-  Major changes or construction projects in public areas (e.g. highway roads, train stations) must be coordinated in advance with the community or the server management.
+  Major changes or construction projects in public areas (e.g. highway roads, train stations) must be coordinated with the community or the server staff.
 - ### Design and functionality
   Structures in public areas should be accessible and aesthetically pleasing. Chaos, destruction and uncoordinated constructions must be avoided.
 - ### Connection to infrastructure
-  All public buildings (e.g. train stations, bridges) that should be connected to the public infrastructure, especially if it is a global and sensitive system (like the public rail network), must first be communicated with the responsible authorities or the server management.
+  All public buildings (e.g. train stations, bridges) that are connected to the public infrastructure (especially the public rail network) must be approved by responsible authorities or the server staff.
   
 ## Server resource usage
 
 > [!WARNING]
-> The server management reserves the right to unload loaded chunks or disable resource-intensive machines/constructions if this improves the server performance.
+> The server staff reserves the right to unload chunks or disable resource-intensive machines/constructions if causing the performance issues.
 
 - ### Chunk loading
-  Chunkloaders are allowed, but should be used very sparingly.
+  Chunkloaders are allowed, use them sparingly.
 - ### Machines
-  Please switch off machines that do not need to be permanently active or that lead to high resource usage!
+  Switch off machines that don't need to run permanently or that cause high resource usage!
 - ### Entities
-  Optimize your farms and use as few entities as possible. The use of villagers should be **minimized**!
-- ### BlockEntities
-  Reduce BlockEntities as much as possible. Avoid long cable connections with blocks and use overhead wires from Immersive Engineering instead, for example. (Only the connectors are BlockEntities there and these wires are more aesthetic anyway)
+  Use as few entities as possible. Minimize the usage of villagers!
+- ### Block Entities
+  Reduce Block Entities. Avoid long cable connections with blocks, use overhead wires (e.g. Immersive Engineering) instead.
 - ### Crashing the server
   Please do not intentionally crash the server. Mistakes can happen.
 
@@ -80,21 +80,21 @@
 > These rules only apply to the public rail network! Railway lines in your private area (e.g. subway, tram) are excluded from this.
 
 - ### Coordination
-  Do not build or modify railway lines and stations without permission. _(This is important to prevent that everybody build their own tracks anywhere, a route suddenly having 10 tracks (even if 2 would be enough), and the existing network to be influenced or blocked)_. Where public rail infrastructure is available, it should be used, instead of constructing a new (private) line. Modifications that do not affect the rail traffic can be conducted without approval.
+  Don't build or modify railway lines and stations without permission. Where public rail infrastructure is available, it should be used, instead of constructing a new (private) line. Modifications that do not affect the rail traffic can be conducted without approval. Only build as many tracks as necessary (please no stations with 100 tracks!)
 - ### Ownership of public rail lines
-  Public Railway infrastructure and stations will be managed by the Server Staff by default, to better coordinate building, upgrading and schedules. Of course everyone is welcome to be part of it and help expand the public rail infrastructure after asking.
+  Public Railway infrastructure and stations will be managed by the server staff by default, to better coordinate building, upgrading and scheduling. Of course everyone is welcome to be part of it and help expand the public rail infrastructure when asking.
 - ### Use public railway lines
   Do not send scheduled trains onto the public rail network without permission. The train schedule must be approved to ensure that other trains or stations are not blocked. Manual individual journeys are permitted at any time.
 - ### Stay realistic
   No tight curves, unrealistic track switches areas, overlapping railway lines, steep climbs/descents, floating tracks
 - ### Signaling
-  Place signals where necessary and ensure that tracks are separated from each other by signals (e.g. at switches). Don't place too many signals (e.g. every 5 blocks, because of performance issues) but also don't leave too large sections unsignalled (as this reduces capacity). One signal every 100 - 150 blocks might be a good reference.
+  Place signals where necessary and ensure that tracks are separated from each other by signals (e.g. at switches). Don't place too many signals (e.g. every 5 blocks) but also don't leave too large sections unsignalled (reduces capacity). One signal every 100 - 150 blocks might be a good reference.
 - ### Parking trains
   Park trains in the depot and never on the open tracks.
 - ### Other players' trains
   Do not use or modify other players' trains without permission.
 - ### Disassemble trains
-  Disassemble trains that you don't need to save server performance. The server staff reserves the right to do this if this rule is violated and performance issues arise.
+  Disassemble trains that you don't need, to save server performance. The server staff reserves the right to do this if performance issues arise.
 
 ## Public Railways Standards
 > [!NOTE]
@@ -134,7 +134,7 @@
 
 - Protect the privacy of other players
 - Never link the IP or other information directly, instead refer to the Discord server
-- Use the command `/trigger live` to enable/disable the streaming mode so other players can see that you are live and don't want to be disturbed
+- Use the command `/trigger live` to enable/disable the streaming mode so other players can see that you are live
 - We cannot guarantee that no copyright content (e.g. pictures or music) will be in your stream/video
 - Don't intentionally break the rules to generate clicks. Abusing a ban for clicks will result in a permanent ban!
 - Leave credit (e.g. in the video description) that this is a Minecraft Community Server from MrJulsen's Modding Community
