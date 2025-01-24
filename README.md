@@ -5,8 +5,17 @@
   <a href="https://discord.gg/AeSbNgvc7f"><img src="https://i.imgur.com/YnDoeHs.png" alt="Discord"></a>
 </p>
 
-# General information about the server
-Description: A Minecraft SMP server for the entire community with no special theme and rules. Whether you are building a city, create a railway company or want to experience adventures: this server should be something for everyone!
+<p align="center">
+  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/rules.md"><img src="https://github.com/user-attachments/assets/4a480338-ccd9-4cce-9410-817d301cc512" alt="Rules"></a>
+  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/rules.md#content-creation"><img src="https://github.com/user-attachments/assets/c2ae35c0-d8ea-4d11-b012-4ff658c40ce9" alt="For Content Creators"></a>
+</p>
+
+<p align="center">
+  <a href=""><img src="https://github.com/user-attachments/assets/7693a845-2ea8-404a-8429-152e44ff6a65" alt="Modlist and Modpack Download"></a>
+</p>
+
+# General information
+A Minecraft SMP server for the entire community with no special theme and rules. Whether you are building a city, create a railway company or want to experience adventures: this server should be something for everyone!
 
 - **Forge 1.20.1**
 - **Survival**
@@ -18,3 +27,27 @@ Description: A Minecraft SMP server for the entire community with no special the
 - Our server: https://www.hetzner.com/de/dedicated-rootserver/ax102/konfigurator/#/
 
 If you have any questions or want to give feedback, feel free to join the discord server.
+
+# Important Server Features
+_WIP!_
+
+# FAQ
+> [!NOTE]
+> If you have any questions, feel free to join the Discord server and ask.
+
+## General
+### Where can I download the modpack?
+_coming soon!_
+
+### Can I join the server?
+The server is open for everyone and you can come and go at any time.
+
+### Are cracked clients allowed? (Server offline mode)
+No.
+
+## Public Railway Network
+### Can I build my own railway line or send trains on existing railway lines?
+In your private base are no restictions. If you have public intentions (e.g. connecting several players) or want to extend the public railway network, please contact the server staff or responsible players to avoid complications. Also, try using existing railway lines first if possible. 
+
+### My train doesn't meet the given standards!
+These are just standards for the **public** rail network! Exceptions are possible on special routes, for example. If in doubt, ask the server staff and we'll find a solution.
