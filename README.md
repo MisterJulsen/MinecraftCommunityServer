@@ -28,9 +28,6 @@ A Minecraft SMP server for the entire community with no special theme and rules.
 
 If you have any questions or want to give feedback, feel free to join the discord server.
 
-# Important Server Features
-_WIP!_
-
 # FAQ
 > [!NOTE]
 > If you have any questions, feel free to join the Discord server and ask.
@@ -42,12 +39,6 @@ _coming soon!_
 ### Can I join the server?
 The server is open for everyone and you can come and go at any time.
 
-### Are cracked clients allowed? (Server offline mode)
-No.
-
 ## Public Railway Network
-### Can I build my own railway line or send trains on existing railway lines?
-In your private base are no restictions. If you have public intentions (e.g. connecting several players) or want to extend the public railway network, please contact the server staff or responsible players to avoid complications. Also, try using existing railway lines first if possible. 
-
 ### My train doesn't meet the given standards!
 These are just standards for the **public** rail network! Exceptions are possible on special routes, for example. If in doubt, ask the server staff and we'll find a solution.
