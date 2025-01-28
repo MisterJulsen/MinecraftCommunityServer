@@ -48,13 +48,13 @@
 > **DEFINITION:** All locations that are accessible or intended for public usage or are connected to the server's global infrastructure (e.g. road, rail).
 
 - ### Usage
-  Public areas should be accessible to all players. Respect the existing infrastructure and buildings and do not change anything without permission. Avoid destruction!
+  Public areas should be accessible to all players. Respect the existing infrastructure and buildings and do not change anything without permission. Avoid chaos and destruction!
 - ### Coordination
-  Major changes or construction projects in public areas (e.g. highway roads, train stations) must be coordinated with the community or the server staff.
+  Major changes or large construction projects in public areas (e.g. highway roads, train stations) must be coordinated with the surrounding players or the server staff.
 - ### Design and functionality
-  Structures in public areas should be accessible and aesthetically pleasing. Chaos, destruction and uncoordinated constructions must be avoided.
+  Structures in public areas should be accessible and aesthetically pleasing.
 - ### Connection to infrastructure
-  All public buildings (e.g. train stations, bridges) that are connected to the public infrastructure (especially the public rail network) must be approved by responsible authorities or the server staff.
+  All public buildings (e.g. train stations, bridges) that are connected to the public infrastructure (especially the public rail network) must be approved by the responsible authorities or the server staff.
   
 ## Server resource usage
 
