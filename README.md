@@ -21,7 +21,7 @@ A Minecraft SMP server for the entire community with no special theme and rules.
 - **Survival**
 - Modpack with approx. 100 - 150 mods
 - Open to everyone, anytime
-- No specific topic (e.g. just Create or just technology), but a mix with different mods from all categories
+- No specific topic, a mix with different mods from all categories
 - Start: _still unknown_
 - IP: _will be published on the discord server_
 - Our server: https://www.hetzner.com/de/dedicated-rootserver/ax102/konfigurator/#/
@@ -30,7 +30,7 @@ If you have any questions or want to give feedback, feel free to join the discor
 
 # FAQ
 > [!NOTE]
-> If you have any questions, feel free to join the Discord server and ask.
+> Help make this area more useful by adding your questions with an answer here.
 
 ## General
 ### Where can I download the modpack?
