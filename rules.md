@@ -84,7 +84,7 @@
 - ### Use public railway lines
   Do not send scheduled trains onto the public rail network without permission. The train schedule must be approved to ensure that other trains or stations are not blocked. Manual individual journeys are permitted at any time.
 - ### Stay realistic
-  No tight curves, unrealistic track switches areas, overlapping railway lines, steep climbs/descents, floating tracks
+  No tight curves, unrealistic track switches, overlapping railway lines, steep climbs/descents, floating tracks
 - ### Signaling
   Place signals where necessary and ensure that tracks are separated from each other by signals (e.g. at switches). Don't place too many signals (e.g. every 5 blocks) but also don't leave too large sections unsignalled (reduces capacity). One signal every ~150 blocks might be a good reference.
 - ### Parking trains
