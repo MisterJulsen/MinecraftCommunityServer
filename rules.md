@@ -8,7 +8,7 @@
 - [General rules](#general-rules) _General rules for the server_
 - [Private areas](#private-areas) _Rules about what players can do in their own, private areas_
 - [Public areas](#public-areas) _Rules about the usage of public areas_
-- [Server resource usage](#server-resource-usage) _How to use the server considerately_
+- [Server resource usage](#server-resource-usage) _How to use the server responsibly_
 - [Public railway network](#public-railways) _Rules for an organized public railway network_
 - [Content Creation](#content-creation) _Some basic rules for content creators_
 
