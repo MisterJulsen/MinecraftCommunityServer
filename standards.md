@@ -21,6 +21,8 @@
   0.5 - 1 blocks
 - ### Distance between tracks
   2 blocks
+- ### Catenary Wire Height
+  between the 8th and 9th block above ground level
 - ### Train dimensions
   - Width: 3 blocks interior + max. 0.5 block walls on the sides  
   - Height: max. 7 blocks
