@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/rules.md"><img src="https://github.com/user-attachments/assets/4a480338-ccd9-4cce-9410-817d301cc512" alt="Rules"></a>
-  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/rules.md#content-creation"><img src="https://github.com/user-attachments/assets/c2ae35c0-d8ea-4d11-b012-4ff658c40ce9" alt="For Content Creators"></a>
+  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/rules.md"><img src="https://github.com/user-attachments/assets/b217719f-c2be-48b9-af35-1aa9a9eec5fc" alt="Rules"></a>
+  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/standards.md"><img src="https://github.com/user-attachments/assets/4d0ed148-1b4c-452f-bb52-ae1e8a83ee5c" alt="Standards"></a>
 </p>
 
 <p align="center">
