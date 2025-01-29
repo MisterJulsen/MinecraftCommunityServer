@@ -19,7 +19,7 @@ A Minecraft SMP server for the entire community with no special theme and rules.
 
 - **Forge 1.20.1**
 - **Survival**
-- Modpack with approx. 100 - 150 mods
+- Modpack with approx. 150 - 200 mods (incl. performance and QoL mods)
 - Open to everyone, anytime
 - No specific topic, a mix with different mods from all categories
 - Start: _still unknown_
