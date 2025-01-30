@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/rules.md"><img src="https://github.com/user-attachments/assets/b217719f-c2be-48b9-af35-1aa9a9eec5fc" alt="Rules"></a>
   <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/standards.md"><img src="https://github.com/user-attachments/assets/4d0ed148-1b4c-452f-bb52-ae1e8a83ee5c" alt="Standards"></a>
-  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/public-rail-network-guidelines"><img src="https://github.com/user-attachments/assets/bbefa202-d8dc-48a7-b00a-70edbf0c1541" alt="Public Rail Network Guidelines"></a>
+  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global-rail-network-guidelines"><img src="https://github.com/user-attachments/assets/bbefa202-d8dc-48a7-b00a-70edbf0c1541" alt="Public Rail Network Guidelines"></a>
 </p>
 
 # General information
