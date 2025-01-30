@@ -15,7 +15,7 @@
 </p>
 
 # General information
-A Minecraft SMP server for the entire community with no special theme and rules. Whether you are building a city, create a railway company or want to experience adventures: this server should be something for everyone!
+A Minecraft SMP server for the entire community with no special theme or rules and the goal to create a large public rail network together. Whether you are building a city, work on the rail network or want to experience adventures: this server is open for everyone!
 
 - **Forge 1.20.1**
 - **Survival**
@@ -32,13 +32,23 @@ If you have any questions or want to give feedback, feel free to join the discor
 > [!NOTE]
 > Help make this area more useful by adding your questions with an answer here.
 
-## General
 ### Where can I download the modpack?
 _coming soon!_
 
 ### Can I join the server?
-The server is open for everyone and you can come and go at any time.
+Yes, the server is open for everyone.
 
-## Public Railway Network
-### My train doesn't meet the given standards!
-These are just standards for the **public** rail network! Exceptions are possible on special routes, for example. If in doubt, ask the server staff and we'll find a solution.
+## Rail Network
+### Can I work on the public rail network?
+Yes, please read the [guidlines](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/public_rail_network_guidelines.md) first.
+
+### Do I always have to ask about changes to the public rail network?
+No, if you know what you're doing or these changes are not significant. On main routes coordination might be helpful to prevent conflicts.
+
+### Can I start my own rail company?
+Yes, but before sending new trains onto the tracks, make sure no other trains are already serving the same route.
+
+### Can I add new tracks?
+Only if necessary (e.g. low capacity or no existing connection in an area). [Follow the design rules.](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/public_rail_network_guidelines.md#stay-realistic)
+
+
