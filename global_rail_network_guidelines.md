@@ -1,5 +1,5 @@
 # Global Rail Network Guidelines
-One goal of the server is that we build a public rail network that connects the entire world like in real-life countries. Here are a few basic guidelines to make this possible.
+One goal of the server is to build a public rail network that connects the entire world like in real-life countries. Here are a few basic guidelines to make this possible.
 
 - ### Coordination
   Keep up to the [standards](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/standards.md) and make sure existing rail traffic is not affected when extending the network (e.g. new track, new train). If in doubt, ask Server Staff or Trusted Players. Use `#public-railways` in discord.
