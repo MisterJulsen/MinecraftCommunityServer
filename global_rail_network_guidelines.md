@@ -13,5 +13,5 @@ One goal of the server is that we build a public rail network that connects the 
   Before sending a scheduled train onto the rail network, make sure not to cause any problems on the route (e.g. blocking other trains with long waiting times) and the desired route is not already operated by other trains (Overcrowding). If in doubt, ask Server Staff or Trusted Players.
 - ### Trusted Players
   Players who already have experience in the public rail network and make responsible decisions. Every player can reach this status.
-- ### Private rail networks
-  Do not build a private network next to the public in a similar scale. Instead, expand the public network.
+- ### Private track networks
+  Do not build a private track network next to the public in a similar scale. Instead, expand the public network.
