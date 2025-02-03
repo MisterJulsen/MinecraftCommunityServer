@@ -18,6 +18,6 @@ One goal of the server is to build a public rail network that connects the entir
 - ### Trains Speed
   Every Schedule that travels on public rail, has to include the maximum speed of the train, at the beginning of the schedule. Look into the standards for further information
 - ### Track Speed
-  At the beginning of each Public Railway Line, there has to be a Train Sign that defines the speed for the whole of the Railway Line. This speed has to be chosen according to the characteristics of the Railway Line.
+  At the beginning of each Public Railway Line, there has to be a Train Sign that defines the maximum speed for the whole of the Railway Line. This speed has to be chosen according to the characteristics of the Railway Line. This speed can change if the characteristics of the Railway Line change.
 - ### Realistic Speed in curves and switches
   The speeds in curves and switch-areas have to be chosen in such a way that trains travers these realistically. This can be accomplished with Train Signs. Look into the standards for further information.
