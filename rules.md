@@ -9,7 +9,7 @@
 - [Private areas](#private-areas) _Rules about what players can do in their own, private areas_
 - [Public areas](#public-areas) _Rules about the usage of public areas_
 - [Server resource usage](#server-resource-usage) _How to use the server responsibly_
-- [Public railway network](#public-railways) _Rules for an organized public railway network_
+- [Railways](#railways) _General rules for railway networks_
 - [Content Creation](#content-creation) _Some basic rules for content creators_
 
 ## General Rules
@@ -26,38 +26,29 @@
 - ### Groups, guilds, nations
   You can create your own guilds and nations and even use your own language there. Please provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
 - ### Resource collection
-  Use the `farm world` to collect resources on a larger scale (e.g. Digital Miner from Mekanism). Avoid destroying the landscape in the central area.
+  Use the farm world to collect resources on a larger scale (e.g. Digital Miner from Mekanism). Avoid destroying the landscape in the central area. The farm world can be accessed at spawn.
 - ### Dangerous and Destructive Features
   Be careful when using dangerous features (e.g. Fission Reactor from Mekanism). Keep enough distance from civilization.
 
 ## Private areas
-
-> [!NOTE]
-> **DEFINITION:** All locations claimed by an individual or a group, clearly marked as private property and not intended for public use (e.g. tram network of a city).
-
 - ### Freedom to build
   Players can build whatever they want in their private areas as long as it doesn't violate other server rules.
 - ### Marking of private areas
-  Claim private areas and mark them (e.g. with signs) so other players know it. Anything that is intended for public use (e.g. train stations) should not be claimed.
+  Claim private areas to protect your property. Make sure that everything that is intended for public (e.g. your train station) can be used correctly by other players.
 - ### Privacy protection
   Only enter locked-off/private areas with the permission of the owner.
 
 ## Public areas
-
-> [!NOTE]
-> **DEFINITION:** All locations that are accessible or intended for public usage or are connected to the server's global infrastructure (e.g. road, rail).
-
 - ### Usage
   Public areas should be accessible to all players. Respect the existing infrastructure and buildings and do not change anything without permission. Avoid chaos and destruction!
 - ### Coordination
   Major changes or large construction projects in public areas (e.g. highway roads, train stations) must be coordinated with the surrounding players or the server staff.
 - ### Design and functionality
-  Structures in public areas should be accessible and aesthetically pleasing.
-- ### Connection to infrastructure
-  All public buildings (e.g. train stations, bridges) that are connected to the public infrastructure (especially the public rail network) must be approved by the responsible authorities or the server staff.
+  Structures in public areas should be accessible and aesthetically pleasing. You may claim it to prevent destruction, but make sure other players can use it as intended.  
+- ### Spawn
+  Spawn area is community area! Players are not allowed to claim the entire area for themselves. Use this area for shops, events, etc.
   
 ## Server resource usage
-
 > [!WARNING]
 > The server staff reserves the right to unload chunks or disable resource-intensive machines/constructions if this causes performance issues.
 
@@ -72,19 +63,13 @@
 - ### Crashing the server
   Please do not intentionally crash the server. Mistakes can happen.
 
-## Public Railways
+## Railways
 
-> [!NOTE]
-> These rules only apply to the public rail network! Railway lines in your private area (e.g. subway, tram) are excluded from this.
+> [!TIP]
+> We would like to build a [large global rail network](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global_rail_network_guidelines.md).
 
-- ### Coordination
-  Don't build or modify railway lines and stations without permission. Where public rail infrastructure is available, it should be used, instead of constructing a new (private) line. Modifications that do not affect the rail traffic can be conducted without approval. Only build as many tracks as necessary (please no stations with 50 tracks!)
-- ### Ownership of public rail lines
-  Public Railway infrastructure and stations will be managed by the server staff by default, to better coordinate building, upgrading and scheduling. Of course everyone is welcome to be part of it and help expand the public rail infrastructure when asking.
-- ### Use public railway lines
-  Do not send scheduled trains onto the public rail network without permission. The train schedule must be approved to ensure that other trains or stations are not blocked. Manual individual journeys are permitted at any time.
-- ### Stay realistic
-  No tight curves, unrealistic track switches, overlapping railway lines, steep climbs/descents, floating tracks
+- ### Scale
+  Only build as many tracks as necessary (please no stations with 50 tracks because you _can_)
 - ### Signaling
   Place signals where necessary and ensure that tracks are separated from each other by signals (e.g. at switches). Don't place too many signals (e.g. every 5 blocks) but also don't leave too large sections unsignalled (reduces capacity). One signal every ~150 blocks might be a good reference.
 - ### Parking trains
