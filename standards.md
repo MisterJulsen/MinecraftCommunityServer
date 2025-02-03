@@ -25,7 +25,7 @@
   2 blocks
 - ### Catenary Wire Height
   between the 8th and 9th block above ground level
-- ### Maximum Speed for Trains:
+- ### Maximum Speed for Trains (100% ≈ 300 km/h)
   - High Speed Trains: 100 %
   - Intercity Trains: 70 %
   - Everything Else (e.g. Regional Trains): max. 50 %
