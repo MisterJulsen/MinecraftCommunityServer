@@ -38,7 +38,7 @@ Yes, the server is open for everyone.
 
 ## Rail Network
 ### Can I work on the public rail network?
-Yes, please read the [guidlines](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/public_rail_network_guidelines.md) first.
+Yes, please read the [guidlines](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global_rail_network_guidelines.md) first.
 
 ### Do I always have to ask about changes to the public rail network?
 No, if you know what you're doing or these changes are not significant. On main routes coordination might be helpful to prevent conflicts.
@@ -47,6 +47,6 @@ No, if you know what you're doing or these changes are not significant. On main 
 Yes, but before sending new trains onto the tracks, make sure no other trains are already serving the same route.
 
 ### Can I add new tracks?
-Only if necessary (e.g. low capacity or no existing connection in an area). [Follow the design rules.](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/public_rail_network_guidelines.md#stay-realistic)
+Only if necessary (e.g. low capacity or no existing connection in an area). [Follow the design rules.](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global_rail_network_guidelines.md#stay-realistic)
 
 
