@@ -15,3 +15,7 @@ One goal of the server is to build a public rail network that connects the entir
   Players who already have experience in the public rail network and make responsible decisions. Every player can reach this status.
 - ### Private track networks
   Do not build a private track network next to the public in a similar scale. Instead, expand the public network.
+- ### Railways Speed
+  Every Schedule that travels on public rail, has to include the maximum Speed, of the train, at the beginning of the schedule.
+- ### Realistic Speed in curves and switches
+  The speeds in curves and switch-areas have to be chosen in such a way that trains travers these realistically. This can be accomplished with Train Signs.
