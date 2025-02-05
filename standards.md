@@ -1,7 +1,7 @@
 # Standards
 > [!NOTE]
 > These standards only apply for the public infrastructure and builds! Everything in your private area (e.g. subway, tram) are excluded from this.
-> After asking for permission, exceptions in the public are also possible (e.g. narrow-gage routes, train stations that are designed for it).
+> After asking for permission, exceptions in the public are also possible (e.g. narrow-gage routes with train stations that are designed for it).
 
 ## Table of Contents
 - [Public railway](#public-railways) _Standardization of the public rail network_
