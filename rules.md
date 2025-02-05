@@ -78,6 +78,8 @@
   Do not use or modify other players' trains without permission.
 - ### Disassemble trains
   Disassemble trains that you don't need, to save server performance. The server staff reserves the right to do this if performance issues arise.
+- ### Max Speed
+  [Please follow these guidlines for public rail network speed limits](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global_rail_network_guidelines.md#train-speed), as we have set the max speed to 300 km/h.
 
 ## Content Creation
 > [!NOTE]
