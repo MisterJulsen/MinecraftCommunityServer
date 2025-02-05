@@ -20,7 +20,7 @@ A Minecraft SMP server for the entire community with no special theme or rules a
 - Modpack with approx. 150 - 200 mods (incl. performance and QoL mods)
 - Open to everyone, anytime
 - No specific topic, a mix with different mods from all categories
-- Start: _still unknown_
+- Start: February 22, 2025
 - IP: _will be published on the discord server_
 - Our server: https://www.hetzner.com/de/dedicated-rootserver/ax102/konfigurator/#/
 
