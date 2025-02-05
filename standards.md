@@ -23,6 +23,8 @@
   64 Blocks (4 Chunks)
 - ### Distance between tracks
   2 blocks
+- ### Amount of tracks (basic routes)
+  1 - 2 tracks
 - ### Catenary Wire Height
   between the 8th and 9th block above ground level
 - ### Maximum Speed for Trains (100% ≈ 300 km/h)
