@@ -49,4 +49,6 @@ Yes, but before sending new trains onto the tracks, make sure no other trains ar
 ### Can I add new tracks?
 Only if necessary (e.g. low capacity or no existing connection in an area). [Follow the design rules.](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global_rail_network_guidelines.md#stay-realistic)
 
+---
+[Privacy Policy](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/privacy_policy.md)
 
