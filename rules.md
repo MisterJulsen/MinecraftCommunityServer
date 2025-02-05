@@ -34,7 +34,7 @@
 - ### Freedom to build
   Players can build whatever they want in their private areas as long as it doesn't violate other server rules.
 - ### Marking of private areas
-  Claim private areas to protect your property. Make sure that everything that is intended for public (e.g. your train station) can be used correctly by other players.
+  Claim private areas to protect your property. Make sure that everything that is intended for public (e.g. your train station) can be used correctly by other players. ([Use sub-claims in Open Claims and Parties for this](https://youtu.be/RB-yYwxDjPY?si=aH6wsHtVain1jd5M&t=62))
 - ### Privacy protection
   Only enter locked-off/private areas with the permission of the owner.
 
@@ -44,7 +44,7 @@
 - ### Coordination
   Major changes or large construction projects in public areas (e.g. highway roads, train stations) must be coordinated with the surrounding players or the server staff.
 - ### Design and functionality
-  Structures in public areas should be accessible and aesthetically pleasing. You may claim it to prevent destruction, but make sure other players can use it as intended.  
+  Structures in public areas should be accessible and aesthetically pleasing. You may claim it to prevent destruction, but make sure other players can use it as intended. ([Use sub-claims in Open Claims and Parties for this](https://youtu.be/RB-yYwxDjPY?si=aH6wsHtVain1jd5M&t=62))
 - ### Spawn
   Spawn area is community area! Players are not allowed to claim the entire area for themselves. Use this area for shops, events, etc.
   
