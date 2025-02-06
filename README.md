@@ -12,7 +12,10 @@
   <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global_rail_network_guidelines.md"><img src="https://github.com/user-attachments/assets/bbefa202-d8dc-48a7-b00a-70edbf0c1541" alt="Public Rail Network Guidelines"></a>
 </p>
 
-[![Support us!](https://github.com/user-attachments/assets/3d93952a-2147-4328-8bfb-879f84821183)](https://ko-fi.com/mrjulsen)
+
+<p align="center" style="font-size:0;">
+  <img src="https://github.com/user-attachments/assets/06660369-ed80-478b-bae6-1eda3947eddb" alt="Support us!" style="margin: 0; padding: 0;"><a href="https://www.paypal.com/donate/?hosted_button_id=5YNRN3J6TJY54"><img src="https://github.com/user-attachments/assets/90af84b1-c892-449e-839a-3e0e3548e509" alt="PayPal" style="margin: 0; padding: 0;"></a><a href="https://ko-fi.com/mrjulsen"><img src="https://github.com/user-attachments/assets/6360b9a3-ced9-442a-bfdd-b92a417e6057" alt="Ko-Fi" style="margin: 0; padding: 0;"></a>
+</p>
 
 # General information
 A Minecraft SMP server for the entire community with no special theme or rules and the goal to create a large public rail network together. Whether you are building a city, work on the rail network or want to experience adventures: this server is open for everyone!
