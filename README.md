@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://discord.gg/AeSbNgvc7f"><img src="https://i.imgur.com/YnDoeHs.png" alt="Discord"></a>
-  <a href=""><img src="https://github.com/user-attachments/assets/7693a845-2ea8-404a-8429-152e44ff6a65" alt="Modlist and Modpack Download"></a>
+  <a href="https://github.com/MisterJulsen/MinecraftCommunityServer/releases"><img src="https://github.com/user-attachments/assets/7693a845-2ea8-404a-8429-152e44ff6a65" alt="Modlist and Modpack Download"></a>
 </p>
 
 <p align="center">
