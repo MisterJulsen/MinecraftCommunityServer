@@ -23,6 +23,8 @@
   Don't use modifications, hacks or exploits that give you or other players an unfair advantage. If unsure, please ask.
 - ### Communication
   Follow the server staff's instructions and use the chat respectfully. Spam, excessive cursing and advertising are prohibited. Use English as the main language.
+- ### No PVP
+  Do not attack other players without permission
 - ### Groups, guilds, nations
   You can create your own guilds and nations and even use your own language there. Please provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
 - ### Resource collection
