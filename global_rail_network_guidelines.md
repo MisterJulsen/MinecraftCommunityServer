@@ -19,7 +19,8 @@ One goal of the server is to build a public rail network that connects the entir
 - ### Private rail networks
   Do not build a private rail network next to the public in a similar scale (local subway/tram/train network excluded). Instead, expand the public network.
 - ### Train Speed
-  Every train on the public rail network must specify the maximum speed of its category at the beginning of the schedule. (e.g. 50% for regional trains) [You can find exact values ​​in the standards](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/standards.md)
+  Every train on the public rail network must specify the maximum speed of its category at the beginning of the schedule. (e.g. 50% for regional trains) [You can find exact values ​​in the standards.](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/standards.md)
+  For that use the "Set Primary Speed Limit"instruction at the start of the schedule as shown:
 
   ![Example of a train schedule with max speed](https://github.com/user-attachments/assets/973c04b1-4ee2-4c23-8adc-826228f53f6b)
 
