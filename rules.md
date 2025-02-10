@@ -28,7 +28,7 @@
 - ### Groups, guilds, nations
   You can create your own guilds and nations and even use your own language there. Please provide English texts (e.g. on signs) in areas that may be important for the public (e.g. train stations).
 - ### Resource collection
-  Use the farm world to collect resources on a larger scale (e.g. Digital Miner from Mekanism). Avoid destroying the landscape in the central area. The farm world can be accessed at spawn.
+  Use the farm world (cmd: `/go farmworld` and `/go back` to come back) to collect resources on a larger scale (e.g. Digital Miner from Mekanism). Avoid destroying the landscape in the central area. The farm world can be accessed at spawn.
 - ### Dangerous and Destructive Features
   Be careful when using dangerous features (e.g. Fission Reactor from Mekanism). Keep enough distance from civilization.
 
@@ -89,6 +89,6 @@
 
 - Protect the privacy of other players
 - Never link the IP or other information directly, instead refer to the Discord server
-- Use the command `/trigger live` to enable/disable the streaming mode so other players can see that you are live
+- Use the command `/live` to enable/disable the streaming mode so other players can see that you are live
 - We cannot guarantee that no copyright content (e.g. pictures or music) will be shown in your stream/video
 - Don't intentionally break the rules to generate clicks. Abusing a ban for clicks will result in a permanent ban!
