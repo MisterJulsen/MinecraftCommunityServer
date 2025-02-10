@@ -31,6 +31,14 @@ A Minecraft SMP server for the entire community with no special theme or rules a
 
 If you have any questions or want to give feedback, feel free to join the discord server.
 
+# Commands
+| Command | Description |
+| - | - |
+| `/server <sub-command>` | Base command for many other options (e.g. rules, discord, dontations, ...). |
+| `/live` | Enable/Disable streaming mode. |
+| `/go farmworld` | Enter the farm world to get resources and other materials without worrying about destroying the world. |
+| `/go back` | Return to your previous location after entering the farm world. |
+
 # FAQ
 > [!NOTE]
 > Help make this area more useful by adding your questions with an answer here.
