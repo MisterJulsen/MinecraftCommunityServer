@@ -22,7 +22,7 @@
 - ### Minimum Platform Length
   64 Blocks (4 Chunks)
 - ### Distance between tracks
-  2 blocks
+  2 - 3 blocks
 - ### Amount of tracks (basic routes)
   1 - 2 tracks
 - ### Catenary Wire Height
