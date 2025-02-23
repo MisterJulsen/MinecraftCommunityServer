@@ -38,6 +38,15 @@
   - Carriage length: max. 30 blocks
   
   ![Example](https://github.com/user-attachments/assets/37ab86ba-9a0f-4e81-84b7-e1a7ae230148)
+  
+## other forms of transit
+
+### trams
+![Screenshot from 2025-02-23 13-19-03](https://github.com/user-attachments/assets/8f121367-385b-4f5d-ab16-443ad4f07d1b)
+### busses
+![image](https://github.com/user-attachments/assets/d7ca328f-bd14-4a65-964b-8c2ded1570fe)
+### metro's
+they are the same as trains.
 
 ## Public roads
 - ### Traffic Side
