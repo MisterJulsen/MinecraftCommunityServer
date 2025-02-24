@@ -38,7 +38,7 @@
 - ### Marking of private areas
   Claim private areas to protect your property. Make sure that everything that is intended for public (e.g. your train station) can be used correctly by other players. ([Use sub-claims in Open Claims and Parties for this](https://youtu.be/RB-yYwxDjPY?si=aH6wsHtVain1jd5M&t=62))
 - ### Privacy protection
-  Only enter locked-off/private areas with the permission of the owner.
+  Only enter locked-off/private areas with the permission of the owner.  
 
 ## Public areas
 - ### Usage
@@ -78,10 +78,14 @@
   Park trains in the depot and never on the open tracks.
 - ### Other players' trains
   Do not use or modify other players' trains without permission.
+- ### Assembling/Disassembling of trains
+  Assemble/Disassemble trains only in unclaimed chunks. Damage to trains caused by ignoring this rule will not be compensated.
 - ### Disassemble trains
   Disassemble trains that you don't need, to save server performance. The server staff reserves the right to do this if performance issues arise.
 - ### Max Speed
   [Please follow these guidelines for public rail network speed limits](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global_rail_network_guidelines.md#train-speed), since we have set the max speed to 300 km/h.
+- ### Claiming of train tracks
+  When claiming public train tracks, always use a sub-config in which entity interactions are enabled so other players can drive trains on these routes.
 
 ## Content Creation
 > [!NOTE]
