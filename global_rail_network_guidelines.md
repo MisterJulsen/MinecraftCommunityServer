@@ -33,3 +33,22 @@ One goal of the server is to build a public rail network that connects the entir
   ![Train signs to set max speed](https://github.com/user-attachments/assets/823f66c5-b914-46fc-b033-f5b94c0e5cce)  
   ![Temporary speed limit before curves](https://github.com/user-attachments/assets/a8aded5f-b374-4f92-878f-fdbd1dc4ca99)
   ![End of temporary speed limit after curves](https://github.com/user-attachments/assets/7d996a91-1a48-4ed5-8d36-ab97f11278ae)
+
+- ### Level Crossings
+- #### Automatic Level Crossings
+  Automatic level crossings should:
+  - Trigger at least 20 seconds before the train reaches the crossing. Distance can be figured out from line speed using the formula:
+    ```
+    line speed percentage * 83m/s * 20s = min distance between crossing and trigger
+    ```
+  - Have both visual and audio warnings which are self contained (i.e. whistle boards do not count).
+  - Have barriers. These should not close on both sides of the road (half barriers), this is in case pedestrians or vehicles are on the crossing when the barriers close.
+- #### More basic crossings
+  Automatic level crossings may not be suitable for certain areas, such as rural areas with not much use. They should:
+  - Be clearly marked with signs requesting that they should look before crossing.
+  - Have a whistle board and/or another form of audio warning.
+  - Approaching trains must be clearly visible and enough time should be given for a pedestrian to cross before a train reaches the crossing.
+  This type of crossing may also:
+  - Have warning lights. These must trigger 20 seconds before a train reaches the crossing as described above.
+- #### More advanced crossings
+  Where half barriers are not suitable, full barriers may be used, however, these **MUST** be monitored during and after closure by either a crossing operator, signaller, or train crew. A train should not proceed until it is confirmed that the crossing is safe, this could be done using a signal that is usually powered (making it show danger).
