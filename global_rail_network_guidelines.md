@@ -48,8 +48,11 @@ One goal of the server is to build a public rail network that connects the entir
   - Be clearly marked with signs requesting that they should look before crossing.
   - Have a whistle board and/or another form of audio warning.
   - Approaching trains must be clearly visible and enough time should be given for a pedestrian to cross before a train reaches the crossing.
+  - If exposed to road traffic, the open crossing should be marked with a railway crossing sign/x.
+  - If exposed to road traffic and warning lights are not used, give way/yield signs or stop signs should be used.
   This type of crossing may also:
   - Have warning lights. These must trigger 20 seconds before a train reaches the crossing as described above.
   - Have a gate.
+  - Have barriers which make pedestrians zigzag and pay attention
 - #### More advanced crossings
   Where half barriers are not suitable, full barriers may be used, however, these **MUST** be monitored during and after closure by either a crossing operator, signaller, or train crew. A train should not proceed until it is confirmed that the crossing is safe, this could be done using a signal that is usually powered (making it show danger).
