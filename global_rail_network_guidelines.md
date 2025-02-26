@@ -24,11 +24,14 @@ One goal of the server is to build a public rail network that connects the entir
 
   ![Example of a train schedule with max speed](https://github.com/user-attachments/assets/973c04b1-4ee2-4c23-8adc-826228f53f6b)
 
+
 - ### Train Dissasemblng
   Dissasemble trains only at private rail yards to avoid trains braking platform edges and blocking tracks.
 
 - ### Track Speed
   On each route, the maximum track speed **MUST** be set (independently of the trains) by train signs, depending on the environment (e.g. straight track, curved track). Before curves, the speed must also be temporarily reduced. There are no specific values, it is done by eye and what feels realistic. For basic routes, we recommend 50%, on straight high-speed routes, 100% can be used.
+> [!NOTE]
+> You can use the track speed that is shown when placing track curves, this can be helpful but not a requierment.
   
   ![Train signs to set max speed](https://github.com/user-attachments/assets/823f66c5-b914-46fc-b033-f5b94c0e5cce)  
   ![Temporary speed limit before curves](https://github.com/user-attachments/assets/a8aded5f-b374-4f92-878f-fdbd1dc4ca99)
