@@ -23,6 +23,8 @@ One goal of the server is to build a public rail network that connects the entir
   For that use the "Set Primary Speed Limit"instruction at the start of the schedule as shown:
 
   ![Example of a train schedule with max speed](https://github.com/user-attachments/assets/973c04b1-4ee2-4c23-8adc-826228f53f6b)
+  > [!NOTE]
+  > you can use the track speed that os shown when placing track curves, this can be helpful but not a requierment.
 
 - ### Train Dissasemblng
   Dissasemble trains only at private rail yards to avoid trains braking platform edges and blocking tracks.
