@@ -27,6 +27,23 @@
   1 - 2 tracks
 - ### Catenary Wire Height
   between the 8th and 9th block above ground level
+- ### Train names
+  Name your trains so they can be identified and aren't called "Unnamed Train"
+- ### Train Lines
+  #### Standardized Train Types
+  - `S`: Suburban
+  - `R`: Regional
+  - `RE`: Regional Express
+  - `IC`: Intercity
+  - `HS`: High Speed
+  
+  #### Train line number
+  Each line has its own number.
+  - Example: `70`, `45`, `134`
+  - Range: `10` - `999`
+  
+  Each combination of train type (prefix) and number is unique! For example, there can't be two R10, but R10 and RE10 is fine. This makes sense, since you can only use this text once in the Navigator. So if there is an entry and it doesn't belong to you, this combination is already taken.
+  e.g. R45, R32, RE32, IC102, HS357
 - ### Maximum Speed for Trains (100% ≈ 300 km/h)
   - High Speed Trains: 100 %
   - Intercity Trains: 70 %
