@@ -62,6 +62,8 @@
   Chunkloaders are allowed, use them sparingly.
 - ### Machines
   Switch off machines that don't need to run permanently or that cause high server-resource usage!
+- ### Stacking farms/machines
+  Don't stack your farms/machines on top of each other in a single chunk. Spread your facilities across a larger area and only load what's really necessary. Admins and moderators are authorized to unload forceloaded chunks without comment and, after repeated unsuccessful requests, to delete problematic chunks completely without replacement.
 - ### Entities
   Use as few entities as possible. Minimize the usage of villagers!
 - ### Block Entities
