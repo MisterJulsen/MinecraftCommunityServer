@@ -37,6 +37,8 @@
   Players can build whatever they want in their private areas as long as it doesn't violate other server rules.
 - ### Marking of private areas
   Claim private areas to protect your property. Make sure that everything that is intended for public (e.g. your train station) can be used correctly by other players. ([Use sub-claims in Open Claims and Parties for this](https://youtu.be/RB-yYwxDjPY?si=aH6wsHtVain1jd5M&t=62))
+- ### Size
+  Claims/private areas should not be disproportionately large, especially if they are not used. Admins and moderators reserve the right to reduce or dissolve claims at any time without comment if they have not been used significantly (especially above ground) over a longer time peroid.
 - ### Privacy protection
   Only enter locked-off/private areas with the permission of the owner.
 - ### Restrictions for other players
