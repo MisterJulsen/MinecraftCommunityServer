@@ -9,7 +9,7 @@
 - [Private areas](#private-areas) _Rules about what players can do in their own, private areas_
 - [Public areas](#public-areas) _Rules about the usage of public areas_
 - [Server resource usage](#server-resource-usage) _How to use the server responsibly_
-- [Railways](#railways) _General rules for railway networks_
+- [Railways](#railways) _General rules for railway networks_ 
 - [Content Creation](#content-creation) _Some basic rules for content creators_
 
 ## General Rules
@@ -18,7 +18,7 @@
 - ### No offensive content
   Do nothing that is offensive, obscene or otherwise inappropriate.
 - ### Griefing and theft
-  Modifying or looting someone else's property or items is not allowed.
+  Modifying or looting someone else's property or items is not allowed. Do not modify structures built by other players and ask in public chat beforehand if there are no claims and you are unsure.
 - ### No cheating or exploits
   Don't use modifications, hacks or exploits that give you or other players an unfair advantage. If unsure, please ask.
 - ### Communication
