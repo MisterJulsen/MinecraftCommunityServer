@@ -5,7 +5,7 @@ One goal of the server is to build a public rail network that connects the entir
 > We have set the max train speed to 300 km/h (even in curves) in the Config. **PLEASE set the max speed of EVERY train and EVERY track according to the speed guidelines mentioned below!**
 
 - ### Coordination
-  Keep up to the [standards](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/standards.md) and make sure existing rail traffic is not affected when extending the network (e.g. new track, new train). If in doubt, ask Server Staff or Trusted Players. Use `#public-railways` in discord to discuss.
+  Keep up to the [standards](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/standards.md) and make sure existing rail traffic is not affected when extending the network (e.g. new track, new train). If in doubt, ask Server Staff or the affected players. Use `#public-railways` in discord to discuss.
 - ### Stay realistic
   No tight curves, unrealistic track switches, overlapping tracks (crossings excluded), steep climbs/descents, floating tracks
 - ### Exceptions
@@ -13,11 +13,13 @@ One goal of the server is to build a public rail network that connects the entir
 - ### New routes
   Use existing infrastructure if available, before building new routes.
 - ### New Scheduled trains
-  Before sending a scheduled train onto the rail network, make sure not to cause any problems on the route (e.g. blocking other trains with long waiting times) and the desired route is not already operated by other trains (Overcrowding). If in doubt, ask Server Staff or Trusted Players.
-- ### Trusted Players
-  Players who already have experience in the public rail network and make responsible decisions. Every player can reach this status.
+  Before sending a scheduled train onto the rail network, make sure not to cause any problems on the route (e.g. blocking other trains with long waiting times) and the desired route is not already operated by other trains (Overcrowding). If in doubt, ask Server Staff or affected players.
+- ### Scale
+  Don't build disproportionately large stations, depots and routes. Start small and expand as needed. This not only helps server performance, but also keeps the (unused) landscape clean and uncluttered.
+- ### Amount of trains
+  Use a reasonable number of trains that won't cause problems on any section of the route. Admins and moderators reserve the right to remove excess trains from service without comment.
 - ### Private rail networks
-  Do not build a private rail network next to the public in a similar scale (local subway/tram/train network excluded). Instead, expand the public network.
+  Do not build a private rail network next to the public in a similar scale. Instead, use or expand the public network.
 - ### Train Speed
   Every train on the public rail network must specify the maximum speed of its category at the beginning of the schedule. (e.g. 50% for regional trains) [You can find exact values ​​in the standards.](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/standards.md)
   For that use the "Set Primary Speed Limit"instruction at the start of the schedule as shown:
