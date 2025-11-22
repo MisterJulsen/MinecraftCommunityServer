@@ -38,7 +38,9 @@
 - ### Marking of private areas
   Claim private areas to protect your property. Make sure that everything that is intended for public (e.g. your train station) can be used correctly by other players. ([Use sub-claims in Open Claims and Parties for this](https://youtu.be/RB-yYwxDjPY?si=aH6wsHtVain1jd5M&t=62))
 - ### Privacy protection
-  Only enter locked-off/private areas with the permission of the owner.  
+  Only enter locked-off/private areas with the permission of the owner.
+- ### Restrictions for other players
+  Since we are playing on a **community** server, it is not permitted to restrict other players' access to large areas of your land. The access to smaller areas (e.g. individual buildings/rooms) may be restricted (according to the privacy protection rules). The open airspace may be accessed by all players.
 
 ## Public areas
 - ### Usage
