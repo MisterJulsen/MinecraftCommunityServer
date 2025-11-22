@@ -41,6 +41,8 @@
   Claims/private areas should not be disproportionately large, especially if they are not used. Admins and moderators reserve the right to reduce or dissolve claims at any time without comment if they have not been used significantly (especially above ground) over a longer time peroid.
 - ### Privacy protection
   Only enter locked-off/private areas with the permission of the owner.
+- ### Restrictions for other players
+  Since we are playing on a **community** server, it is not permitted to restrict other players' access to large areas of your land. The access to smaller areas (e.g. individual buildings/rooms) may be restricted (according to the privacy protection rules). The open airspace may be accessed by all players.
 
 ## Public areas
 - ### Usage
