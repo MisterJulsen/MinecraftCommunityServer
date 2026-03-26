@@ -20,7 +20,7 @@
 # General information
 A Minecraft SMP server for the entire community with no special theme or rules and the goal to create a large public rail network together. Whether you are building a city, work on the rail network or want to experience adventures: this server is open for everyone!
 
-- **Forge 1.20.1**
+- **Forge 1.20.1-47.4.10**
 - **Survival**
 - Modpack with approx. 150 - 200 mods (incl. performance and QoL mods)
 - Open to everyone, anytime
