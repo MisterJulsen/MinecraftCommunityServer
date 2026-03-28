@@ -92,6 +92,8 @@
   [Please follow these guidelines for public rail network speed limits](https://github.com/MisterJulsen/MinecraftCommunityServer/blob/main/global_rail_network_guidelines.md#train-speed), since we have set the max speed to 300 km/h.
 - ### Claiming of train tracks
   When claiming public train tracks, always use a sub-config in which entity interactions are enabled so other players can drive trains on these routes.
+- ### Use of Create: Security Program
+  The gates from Create: Security Program should not restrict any player access into a station or connected building. If the player is able to jump/fly over said gates, they are not considered restricting access.
 
 ## Content Creation
 > [!NOTE]
